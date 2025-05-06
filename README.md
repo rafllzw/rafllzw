@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Rafael Melo Reis <br> sou de Belém do pará<br>- 📚 cursando análise e desenvolvimento de sistemas</p>
+<p align="left">Rafael Melo Reis <br> Belém do pará<br>- 📚 cursando análise e desenvolvimento de sistemas</p>
 
 ###
 
